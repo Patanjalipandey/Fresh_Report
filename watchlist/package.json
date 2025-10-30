@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://patanjalipandey.github.io/watchlist",
+  "homepage": "https://patanjalipandey.github.io/Fresh_Report",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
